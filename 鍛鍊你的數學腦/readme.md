@@ -1,10 +1,9 @@
 # 鍛鍊你的數學腦
 
-<!-- toc orderedList:0 depthFrom:1 depthTo:6 -->
-<!-- tocstop -->
 <img src="cover.png" alt="" height="300">
-## info
-* [publisher](http://books.gotop.com.tw/e_ACL047900)
+
+## info  
+* [publisher](http://books.gotop.com.tw/e_ACL047900)  
 
 ## toc
 * [第1章 入門篇](第1章_入門篇.md)
