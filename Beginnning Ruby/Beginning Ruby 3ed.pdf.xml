@@ -1,0 +1,718 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BookmarkExport>
+  <Item ID="1" Name="Contents at a Glance" Page="6" Open="0" />
+  <Item ID="2" Name="Contents" Page="8" Open="0" />
+  <Item ID="3" Name="Foreword" Page="24" Open="0" />
+  <Item ID="4" Name="About the Author" Page="28" Open="0" />
+  <Item ID="5" Name="About the Technical Reviewer" Page="30" Open="0" />
+  <Item ID="6" Name="Acknowledgments" Page="32" Open="0" />
+  <Item ID="7" Name="Introduction" Page="34" Open="0" />
+  <Item ID="8" Name="Part 1: Foundations and Scaffolding" Page="36" Open="0">
+    <Item ID="9" Name="Chapter 1: Let’s Get It Started: Installing Ruby" Page="37" Open="0">
+      <Item ID="10" Name="Installing Ruby" Page="38" Open="0">
+        <Item ID="11" Name="Windows" Page="38" Open="0" />
+        <Item ID="12" Name="Mac OS X / macOS" Page="40" Open="0">
+          <Item ID="13" Name="Testing for a Preinstalled Version of Ruby" Page="40" Open="0" />
+          <Item ID="14" Name="Installing Ruby on OS X" Page="41" Open="0" />
+          <Item ID="15" Name="Installing Ruby from Source on Mac OS X" Page="41" Open="0" />
+        </Item>
+        <Item ID="16" Name="Linux" Page="41" Open="0">
+          <Item ID="17" Name="Checking If Ruby Is Installed on Linux" Page="41" Open="0" />
+          <Item ID="18" Name="Installing Ruby with a Package Manager" Page="42" Open="0" />
+          <Item ID="19" Name="Installing Ruby from Source Code" Page="42" Open="0" />
+        </Item>
+        <Item ID="20" Name="Other Platforms" Page="43" Open="0" />
+      </Item>
+      <Item ID="21" Name="Summary" Page="44" Open="0" />
+    </Item>
+    <Item ID="22" Name="Chapter 2: Programming == Joy: A Whistle-Stop Tour of Ruby and Object Orientation" Page="45" Open="0">
+      <Item ID="23" Name="Baby Steps" Page="45" Open="0">
+        <Item ID="24" Name="irb: Interactive Ruby" Page="46" Open="0" />
+        <Item ID="25" Name="Ruby Is “English for Computers”" Page="46" Open="0" />
+        <Item ID="26" Name="Why Ruby Makes a Great Programming Language" Page="47" Open="0" />
+        <Item ID="27" Name="Trails for the Mind" Page="48" Open="0" />
+      </Item>
+      <Item ID="28" Name="Turning Ideas into Ruby Code" Page="49" Open="0">
+        <Item ID="29" Name="How Ruby Understands Concepts with Objects and Classes" Page="49" Open="0" />
+        <Item ID="30" Name="The Making of a Person" Page="50" Open="0" />
+        <Item ID="31" Name="Basic Variables" Page="51" Open="0" />
+        <Item ID="32" Name="From People to Pets" Page="52" Open="0">
+          <Item ID="33" Name="Structuring Your Pets Logically" Page="53" Open="0" />
+          <Item ID="34" Name="Controlling Your Pets" Page="54" Open="0" />
+        </Item>
+      </Item>
+      <Item ID="35" Name="Everything Is an Object" Page="55" Open="0">
+        <Item ID="36" Name="Kernel Methods" Page="56" Open="0" />
+        <Item ID="37" Name="Passing Data to Methods" Page="57" Open="0" />
+        <Item ID="38" Name="Using the Methods of the String Class" Page="58" Open="0" />
+      </Item>
+      <Item ID="39" Name="Using Ruby in a Non–Object-Oriented Style" Page="59" Open="0" />
+      <Item ID="40" Name="Summary" Page="60" Open="0" />
+    </Item>
+    <Item ID="41" Name="Chapter 3: Ruby’s Building Blocks: Data, Expressions, and Flow Control" Page="62" Open="0">
+      <Item ID="42" Name="Numbers and Expressions" Page="62" Open="0">
+        <Item ID="43" Name="Basic Expressions" Page="62" Open="0" />
+        <Item ID="44" Name="Variables" Page="63" Open="0" />
+        <Item ID="45" Name="Comparison Operators and Expressions" Page="64" Open="0" />
+        <Item ID="46" Name="Looping Through Numbers with Blocks and Iterators" Page="66" Open="0" />
+        <Item ID="47" Name="Floating Point Numbers" Page="68" Open="0" />
+        <Item ID="48" Name="Constants" Page="69" Open="0" />
+      </Item>
+      <Item ID="49" Name="Text and Strings" Page="69" Open="0">
+        <Item ID="50" Name="String Literals" Page="69" Open="0" />
+        <Item ID="51" Name="String Expressions" Page="70" Open="0" />
+        <Item ID="52" Name="Interpolation" Page="72" Open="0" />
+        <Item ID="53" Name="String Methods" Page="73" Open="0" />
+        <Item ID="54" Name="Regular Expressions and String Manipulation" Page="74" Open="0">
+          <Item ID="55" Name="Substitutions" Page="75" Open="0" />
+          <Item ID="56" Name="Iteration with a Regular Expression" Page="76" Open="0" />
+          <Item ID="57" Name="Matching" Page="79" Open="0" />
+        </Item>
+      </Item>
+      <Item ID="58" Name="Arrays and Lists" Page="80" Open="0">
+        <Item ID="59" Name="Basic Arrays" Page="80" Open="0" />
+        <Item ID="60" Name="Splitting Strings into Arrays" Page="82" Open="0" />
+        <Item ID="61" Name="Array Iteration" Page="83" Open="0" />
+        <Item ID="62" Name="Other Array Methods" Page="84" Open="0">
+          <Item ID="63" Name="Array Addition and Concatenation" Page="84" Open="0" />
+          <Item ID="64" Name="Array Subtraction and Difference" Page="84" Open="0" />
+          <Item ID="65" Name="Checking for an Empty Array" Page="84" Open="0" />
+          <Item ID="66" Name="Checking an Array for a Certain Item" Page="85" Open="0" />
+          <Item ID="67" Name="Accessing the First and Last Elements of the Array" Page="85" Open="0" />
+          <Item ID="68" Name="Reversing the Order of the Array’s Elements" Page="85" Open="0" />
+        </Item>
+      </Item>
+      <Item ID="69" Name="Hashes" Page="86" Open="0">
+        <Item ID="70" Name="Basic Hash Methods" Page="86" Open="0">
+          <Item ID="71" Name="Iterating Through Hash Elements" Page="87" Open="0" />
+          <Item ID="72" Name="Retrieving Keys" Page="87" Open="0" />
+          <Item ID="73" Name="Deleting Hash Elements" Page="87" Open="0" />
+          <Item ID="74" Name="Deleting Hash Elements Conditionally" Page="88" Open="0" />
+        </Item>
+        <Item ID="75" Name="Hashes Within Hashes" Page="88" Open="0" />
+      </Item>
+      <Item ID="76" Name="Flow Control" Page="89" Open="0">
+        <Item ID="77" Name="if and unless" Page="89" Open="0" />
+        <Item ID="78" Name="?, the Ternary Operator" Page="90" Open="0" />
+        <Item ID="79" Name="elsif and case" Page="91" Open="0" />
+        <Item ID="80" Name="while and until" Page="93" Open="0" />
+        <Item ID="81" Name="Code Blocks" Page="94" Open="0" />
+      </Item>
+      <Item ID="82" Name="Other Useful Building Blocks" Page="95" Open="0">
+        <Item ID="83" Name="Dates and Times" Page="95" Open="0" />
+        <Item ID="84" Name="Large Numbers" Page="98" Open="0" />
+        <Item ID="85" Name="Ranges" Page="99" Open="0" />
+        <Item ID="86" Name="Symbols" Page="101" Open="0" />
+        <Item ID="87" Name="Converting Objects to Other Classes" Page="102" Open="0" />
+      </Item>
+      <Item ID="88" Name="Summary" Page="103" Open="0" />
+    </Item>
+    <Item ID="89" Name="Chapter 4: Developing Your First Ruby Application" Page="105" Open="0">
+      <Item ID="90" Name="Working with Source Code Files" Page="105" Open="0">
+        <Item ID="91" Name="Creating a Test File" Page="105" Open="0">
+          <Item ID="92" Name="Visual Studio Code" Page="105" Open="0" />
+          <Item ID="93" Name="Alternatives to Linux" Page="106" Open="0" />
+        </Item>
+        <Item ID="94" Name="A Simple Source Code File" Page="107" Open="0" />
+        <Item ID="95" Name="Running Your Source Code" Page="107" Open="0">
+          <Item ID="96" Name="Windows" Page="107" Open="0" />
+          <Item ID="97" Name="Mac OS X / macOS" Page="108" Open="0" />
+          <Item ID="98" Name="Linux and Other UNIX-Based Systems" Page="108" Open="0" />
+        </Item>
+      </Item>
+      <Item ID="99" Name="Our Application: A Text Analyzer" Page="109" Open="0">
+        <Item ID="100" Name="Required Basic Features" Page="109" Open="0" />
+        <Item ID="101" Name="Building the Basic Application" Page="110" Open="0" />
+        <Item ID="102" Name="Obtaining Some Dummy Text" Page="110" Open="0" />
+        <Item ID="103" Name="Loading Text Files and Counting Lines" Page="111" Open="0" />
+        <Item ID="104" Name="Counting Characters" Page="112" Open="0" />
+        <Item ID="105" Name="Counting Words" Page="113" Open="0" />
+        <Item ID="106" Name="Counting Sentences and Paragraphs" Page="114" Open="0" />
+        <Item ID="107" Name="Calculating Averages" Page="115" Open="0" />
+        <Item ID="108" Name="The Source Code So Far" Page="116" Open="0" />
+      </Item>
+      <Item ID="109" Name="Adding Extra Features" Page="117" Open="0">
+        <Item ID="110" Name="Percentage of “Useful” Words" Page="117" Open="0" />
+        <Item ID="111" Name="Summarizing by Finding “Interesting” Sentences" Page="119" Open="0" />
+        <Item ID="112" Name="Analyzing Files Other Than text.txt" Page="121" Open="0" />
+      </Item>
+      <Item ID="113" Name="The Completed Program" Page="122" Open="0" />
+      <Item ID="114" Name="Summary" Page="124" Open="0" />
+    </Item>
+    <Item ID="115" Name="Chapter 5: The Ruby Ecosystem" Page="125" Open="0">
+      <Item ID="116" Name="Ruby’s History" Page="125" Open="0">
+        <Item ID="117" Name="The Land of the Rising Sun" Page="125" Open="0" />
+        <Item ID="118" Name="Ruby’s Influences" Page="126" Open="0" />
+        <Item ID="119" Name="Go West" Page="127" Open="0" />
+        <Item ID="120" Name="Alternative Ruby Implementations" Page="128" Open="0" />
+      </Item>
+      <Item ID="121" Name="Ruby on Rails" Page="129" Open="0">
+        <Item ID="122" Name="Why Rails Came into Existence" Page="129" Open="0" />
+        <Item ID="123" Name="How the Web (2.0) Was Won" Page="130" Open="0" />
+      </Item>
+      <Item ID="124" Name="The Open Source Culture" Page="130" Open="0">
+        <Item ID="125" Name="What Is Open Source?" Page="131" Open="0" />
+      </Item>
+      <Item ID="126" Name="Where and How to Get Help" Page="131" Open="0">
+        <Item ID="127" Name="Mailing Lists" Page="131" Open="0" />
+        <Item ID="128" Name="Internet Relay Chat (IRC)" Page="132" Open="0" />
+        <Item ID="129" Name="Documentation" Page="133" Open="0" />
+        <Item ID="130" Name="Forums" Page="133" Open="0" />
+      </Item>
+      <Item ID="131" Name="Joining the Community" Page="134" Open="0">
+        <Item ID="132" Name="Give Help to Others" Page="134" Open="0" />
+        <Item ID="133" Name="Contribute Code" Page="134" Open="0" />
+        <Item ID="134" Name="News Sites and Sources" Page="135" Open="0" />
+      </Item>
+      <Item ID="135" Name="Summary" Page="135" Open="0" />
+    </Item>
+  </Item>
+  <Item ID="136" Name="Part 2: The Core of Ruby" Page="136" Open="0">
+    <Item ID="137" Name="Chapter 6: Classes, Objects, and Modules" Page="137" Open="0">
+      <Item ID="138" Name="Why Use Object Orientation?" Page="137" Open="0" />
+      <Item ID="139" Name="Object-Orientation Basics" Page="140" Open="0">
+        <Item ID="140" Name="Local, Global, Object, and Class Variables" Page="140" Open="0">
+          <Item ID="141" Name="Local Variables" Page="141" Open="0" />
+          <Item ID="142" Name="Global Variables" Page="142" Open="0" />
+          <Item ID="143" Name="Instance or Object Variables" Page="142" Open="0" />
+          <Item ID="144" Name="Class Variables" Page="143" Open="0" />
+        </Item>
+        <Item ID="145" Name="Class Methods versus Instance Methods" Page="144" Open="0" />
+        <Item ID="146" Name="Inheritance" Page="146" Open="0" />
+        <Item ID="147" Name="Overriding Existing Methods" Page="148" Open="0" />
+        <Item ID="148" Name="Reflection and Discovering an Object’s Methods" Page="150" Open="0" />
+        <Item ID="149" Name="Encapsulation" Page="151" Open="0" />
+        <Item ID="150" Name="Polymorphism" Page="155" Open="0" />
+        <Item ID="151" Name="Nested Classes" Page="157" Open="0" />
+        <Item ID="152" Name="The Scope of Constants" Page="158" Open="0" />
+      </Item>
+      <Item ID="153" Name="Modules, Namespaces, and Mix-Ins" Page="159" Open="0">
+        <Item ID="154" Name="Namespaces" Page="159" Open="0" />
+        <Item ID="155" Name="Mix-Ins" Page="161" Open="0">
+          <Item ID="156" Name="Enumerable" Page="162" Open="0" />
+          <Item ID="157" Name="Comparable" Page="165" Open="0" />
+          <Item ID="158" Name="Using Mix-Ins with Namespaces and Classes" Page="167" Open="0" />
+        </Item>
+      </Item>
+      <Item ID="159" Name="Building a Dungeon Text Adventure with Objects" Page="168" Open="0">
+        <Item ID="160" Name="Dungeon Concepts" Page="168" Open="0" />
+        <Item ID="161" Name="Creating the Initial Classes" Page="168" Open="0" />
+        <Item ID="162" Name="Structs: Quick and Easy Data Classes" Page="169" Open="0" />
+        <Item ID="163" Name="Creating Rooms" Page="172" Open="0" />
+        <Item ID="164" Name="Making the Dungeon Work" Page="172" Open="0" />
+      </Item>
+      <Item ID="165" Name="Summary" Page="176" Open="0" />
+    </Item>
+    <Item ID="166" Name="Chapter 7: Projects and Libraries" Page="178" Open="0">
+      <Item ID="167" Name="Projects and Using Code from Other Files" Page="178" Open="0">
+        <Item ID="168" Name="Basic File Inclusion" Page="178" Open="0" />
+        <Item ID="169" Name="Inclusions from Other Directories" Page="180" Open="0" />
+        <Item ID="170" Name="Logic and Including Code" Page="181" Open="0" />
+        <Item ID="171" Name="Nested Inclusions" Page="182" Open="0" />
+      </Item>
+      <Item ID="172" Name="Libraries" Page="182" Open="0">
+        <Item ID="173" Name="The Standard Libraries" Page="183" Open="0">
+          <Item ID="174" Name="net/http" Page="183" Open="0" />
+          <Item ID="175" Name="OpenStruct" Page="184" Open="0" />
+        </Item>
+        <Item ID="176" Name="RubyGems" Page="185" Open="0">
+          <Item ID="177" Name="Finding Gems" Page="185" Open="0" />
+          <Item ID="178" Name="Installing a Simple Gem" Page="186" Open="0" />
+          <Item ID="179" Name="Using Gems" Page="186" Open="0" />
+          <Item ID="180" Name="Upgrading and Uninstalling Gems" Page="187" Open="0" />
+          <Item ID="181" Name="Creating Your Own Gems" Page="187" Open="0" />
+        </Item>
+        <Item ID="182" Name="Bundler" Page="188" Open="0" />
+      </Item>
+      <Item ID="183" Name="Summary" Page="189" Open="0" />
+    </Item>
+    <Item ID="184" Name="Chapter 8: Documentation, Error Handling, Debugging, and Testing" Page="191" Open="0">
+      <Item ID="185" Name="Documentation" Page="191" Open="0">
+        <Item ID="186" Name="Generating Documentation with RDoc" Page="191" Open="0" />
+        <Item ID="187" Name="RDoc Techniques" Page="193" Open="0" />
+        <Item ID="188" Name="Producing Documentation for an Entire Project" Page="193" Open="0">
+          <Item ID="189" Name="Basic Formatting" Page="193" Open="0" />
+        </Item>
+        <Item ID="190" Name="Modifiers and Options" Page="195" Open="0">
+          <Item ID="191" Name=":nodoc: Modifier" Page="195" Open="0" />
+          <Item ID="192" Name="Turning RDoc Processing On and Off" Page="195" Open="0" />
+          <Item ID="193" Name="Command-Line Options" Page="196" Open="0" />
+        </Item>
+      </Item>
+      <Item ID="194" Name="Debugging and Errors" Page="196" Open="0">
+        <Item ID="195" Name="Exceptions and Error Handling" Page="196" Open="0">
+          <Item ID="196" Name="Raising Exceptions" Page="197" Open="0" />
+          <Item ID="197" Name="Handling Exceptions" Page="198" Open="0" />
+          <Item ID="198" Name="Handling Passed Exceptions" Page="199" Open="0" />
+        </Item>
+        <Item ID="199" Name="Catch and Throw" Page="200" Open="0" />
+        <Item ID="200" Name="The Ruby Debugger" Page="200" Open="0" />
+      </Item>
+      <Item ID="201" Name="Testing" Page="203" Open="0" />
+      <Item ID="202" Name="The Philosophy of Test-Driven Development" Page="203" Open="0">
+        <Item ID="203" Name="Unit Testing" Page="205" Open="0" />
+        <Item ID="204" Name="More Minitest Assertions" Page="207" Open="0" />
+      </Item>
+      <Item ID="205" Name="Benchmarking and Profiling" Page="208" Open="0">
+        <Item ID="206" Name="Simple Benchmarking" Page="209" Open="0" />
+        <Item ID="207" Name="Profiling" Page="210" Open="0" />
+      </Item>
+      <Item ID="208" Name="Summary" Page="212" Open="0" />
+    </Item>
+    <Item ID="209" Name="Chapter 9: Files and Databases" Page="214" Open="0">
+      <Item ID="210" Name="Input and Output" Page="214" Open="0">
+        <Item ID="211" Name="Keyboard Input" Page="214" Open="0" />
+        <Item ID="212" Name="File I/O" Page="215" Open="0">
+          <Item ID="213" Name="Opening and Reading Files" Page="216" Open="0" />
+          <Item ID="214" Name="More File-Reading Techniques" Page="217" Open="0" />
+          <Item ID="215" Name="Your Position Within a File" Page="221" Open="0" />
+          <Item ID="216" Name="Writing to Files" Page="221" Open="0" />
+          <Item ID="217" Name="Character Sets and Encodings" Page="223" Open="0" />
+          <Item ID="218" Name="Renaming and Deleting Files" Page="224" Open="0" />
+          <Item ID="219" Name="File Operations" Page="224" Open="0">
+            <Item ID="220" Name="Creating Filenames Platform-Independently" Page="225" Open="0" />
+            <Item ID="221" Name="Seeking" Page="226" Open="0" />
+            <Item ID="222" Name="Finding Out When a File Was Last Modified" Page="227" Open="0" />
+            <Item ID="223" Name="Checking Whether a File Exists" Page="227" Open="0" />
+            <Item ID="224" Name="Getting the Size of a File" Page="228" Open="0" />
+            <Item ID="225" Name="How to Know When You’re at the End of a File" Page="228" Open="0" />
+          </Item>
+          <Item ID="226" Name="Directories" Page="228" Open="0">
+            <Item ID="227" Name="Navigating Through Directories" Page="228" Open="0" />
+            <Item ID="228" Name="Creating a Directory" Page="229" Open="0" />
+            <Item ID="229" Name="Deleting a Directory" Page="230" Open="0" />
+            <Item ID="230" Name="Creating Files in the Temporary Directory" Page="230" Open="0" />
+          </Item>
+        </Item>
+      </Item>
+      <Item ID="231" Name="Basic Databases" Page="231" Open="0">
+        <Item ID="232" Name="Text File Databases" Page="231" Open="0">
+          <Item ID="233" Name="Reading and Searching CSV Data" Page="232" Open="0" />
+          <Item ID="234" Name="Saving Data Back to the CSV File" Page="233" Open="0" />
+        </Item>
+        <Item ID="235" Name="Storing Objects and Data Structures" Page="234" Open="0">
+          <Item ID="236" Name="PStore" Page="234" Open="0" />
+          <Item ID="237" Name="YAML" Page="235" Open="0" />
+        </Item>
+      </Item>
+      <Item ID="238" Name="Relational Databases and SQL" Page="237" Open="0">
+        <Item ID="239" Name="Relational Database Concepts" Page="237" Open="0" />
+        <Item ID="240" Name="MySQL, PostgreSQL, and SQLite" Page="238" Open="0" />
+        <Item ID="241" Name="Installing SQLite" Page="239" Open="0" />
+        <Item ID="242" Name="A Crash Course in Basic Database Operations and SQL" Page="239" Open="0">
+          <Item ID="243" Name="What Is SQL?" Page="239" Open="0" />
+          <Item ID="244" Name="CREATE TABLE" Page="240" Open="0" />
+          <Item ID="245" Name="INSERT INTO" Page="241" Open="0" />
+          <Item ID="246" Name="SELECT" Page="241" Open="0" />
+          <Item ID="247" Name="DELETE" Page="243" Open="0" />
+          <Item ID="248" Name="UPDATE" Page="243" Open="0" />
+        </Item>
+        <Item ID="249" Name="Using SQLite with Ruby" Page="244" Open="0" />
+        <Item ID="250" Name="Connecting to Other Database Systems" Page="247" Open="0" />
+        <Item ID="251" Name="ActiveRecord: A Sneak Peek" Page="249" Open="0" />
+      </Item>
+      <Item ID="252" Name="Summary" Page="250" Open="0" />
+    </Item>
+    <Item ID="253" Name="Chapter 10: Distributing Ruby Code and Libraries" Page="252" Open="0">
+      <Item ID="254" Name="Distributing Basic Ruby Programs" Page="252" Open="0">
+        <Item ID="255" Name="The Shebang Line" Page="253" Open="0" />
+        <Item ID="256" Name="Associated File Types in Windows" Page="254" Open="0" />
+      </Item>
+      <Item ID="257" Name="Detecting Ruby’s Runtime Environment" Page="255" Open="0">
+        <Item ID="258" Name="Easy OS Detection with RUBY_PLATFORM" Page="255" Open="0" />
+        <Item ID="259" Name="Environment Variables" Page="255" Open="0" />
+        <Item ID="260" Name="Accessing Command-Line Arguments" Page="257" Open="0" />
+      </Item>
+      <Item ID="261" Name="Distributing Ruby Libraries as Gems" Page="258" Open="0">
+        <Item ID="262" Name="Creating a Gem" Page="258" Open="0">
+          <Item ID="263" Name="Structuring Your Files" Page="259" Open="0" />
+          <Item ID="264" Name="Creating a Specification File" Page="259" Open="0" />
+          <Item ID="265" Name="Building the Gem" Page="261" Open="0" />
+          <Item ID="266" Name="Easier Gem Creation" Page="261" Open="0" />
+        </Item>
+        <Item ID="267" Name="Distributing a Gem" Page="262" Open="0" />
+        <Item ID="268" Name="RubyGems.org" Page="262" Open="0" />
+      </Item>
+      <Item ID="269" Name="Deploying Ruby Applications as Remote Services" Page="263" Open="0">
+        <Item ID="270" Name="CGI Scripts" Page="263" Open="0">
+          <Item ID="271" Name="A Basic CGI Script" Page="263" Open="0" />
+          <Item ID="272" Name="Accepting CGI Variables" Page="264" Open="0" />
+        </Item>
+        <Item ID="273" Name="Generic HTTP Servers" Page="265" Open="0">
+          <Item ID="274" Name="WEBrick" Page="266" Open="0" />
+        </Item>
+      </Item>
+      <Item ID="275" Name="Summary" Page="268" Open="0" />
+    </Item>
+    <Item ID="276" Name="Chapter 11: Advanced Ruby Features" Page="270" Open="0">
+      <Item ID="277" Name="Dynamic Code Execution" Page="270" Open="0">
+        <Item ID="278" Name="Bindings" Page="271" Open="0" />
+        <Item ID="279" Name="Other Forms of eval" Page="272" Open="0" />
+        <Item ID="280" Name="Creating Your Own Version of attr_accessor" Page="273" Open="0" />
+      </Item>
+      <Item ID="281" Name="Running Other Programs from Ruby" Page="275" Open="0">
+        <Item ID="282" Name="Getting Results from Other Programs" Page="275" Open="0" />
+        <Item ID="283" Name="Transferring Execution to Another Program" Page="275" Open="0" />
+        <Item ID="284" Name="Running Two Programs at the Same Time" Page="275" Open="0" />
+        <Item ID="285" Name="Interacting with Another Program" Page="276" Open="0" />
+      </Item>
+      <Item ID="286" Name="Safely Handling Data and Dangerous Methods" Page="277" Open="0">
+        <Item ID="287" Name="Tainted Data and Objects" Page="277" Open="0" />
+        <Item ID="288" Name="Safe Levels" Page="279" Open="0" />
+      </Item>
+      <Item ID="289" Name="Working with Microsoft Windows" Page="280" Open="0">
+        <Item ID="290" Name="Using the Windows API" Page="280" Open="0" />
+        <Item ID="291" Name="Controlling Windows Programs" Page="283" Open="0" />
+      </Item>
+      <Item ID="292" Name="Threads" Page="284" Open="0">
+        <Item ID="293" Name="Basic Ruby Threads in Action" Page="284" Open="0" />
+        <Item ID="294" Name="Advanced Thread Operations" Page="285" Open="0">
+          <Item ID="295" Name="Waiting for Threads to Finish Redux" Page="285" Open="0" />
+          <Item ID="296" Name="Getting a List of All Threads" Page="285" Open="0" />
+          <Item ID="297" Name="Thread Operations from Within Threads Themselves" Page="286" Open="0" />
+        </Item>
+      </Item>
+      <Item ID="298" Name="Fibers" Page="286" Open="0">
+        <Item ID="299" Name="A Fiber in Action" Page="287" Open="0" />
+        <Item ID="300" Name="Passing Data to a Fiber" Page="287" Open="0" />
+        <Item ID="301" Name="Why Fibers?" Page="288" Open="0" />
+      </Item>
+      <Item ID="302" Name="RubyInline" Page="289" Open="0">
+        <Item ID="303" Name="Why Use C as an Inline Language?" Page="289" Open="0" />
+        <Item ID="304" Name="Creating a Basic Method or Function" Page="289" Open="0" />
+      </Item>
+      <Item ID="305" Name="Benchmarking C versus Ruby" Page="291" Open="0" />
+      <Item ID="306" Name="Unicode, Character Encodings, and UTF-8 Support" Page="292" Open="0">
+        <Item ID="307" Name="Ruby 1.9 and Beyond’s Character Encoding Support" Page="292" Open="0">
+          <Item ID="308" Name="Strings" Page="292" Open="0" />
+          <Item ID="309" Name="Source Code" Page="293" Open="0" />
+        </Item>
+      </Item>
+      <Item ID="310" Name="Summary" Page="293" Open="0" />
+    </Item>
+    <Item ID="311" Name="Chapter 12: Tying It Together: Developing a Larger Ruby Application" Page="295" Open="0">
+      <Item ID="312" Name="Let’s Build a Bot" Page="295" Open="0">
+        <Item ID="313" Name="What Is a Bot?" Page="295" Open="0" />
+        <Item ID="314" Name="Why a Bot?" Page="296" Open="0" />
+        <Item ID="315" Name="How?" Page="296" Open="0" />
+      </Item>
+      <Item ID="316" Name="Creating a Simple Text Processing Library" Page="297" Open="0">
+        <Item ID="317" Name="Building the WordPlay Library" Page="297" Open="0">
+          <Item ID="318" Name="Splitting Text into Sentences" Page="297" Open="0" />
+          <Item ID="319" Name="Splitting Sentences into Words" Page="298" Open="0" />
+          <Item ID="320" Name="Word Matching" Page="299" Open="0" />
+          <Item ID="321" Name="Switching Subject and Object Pronouns" Page="299" Open="0" />
+        </Item>
+        <Item ID="322" Name="Testing the Library" Page="302" Open="0">
+          <Item ID="323" Name="Testing Sentence Separation" Page="303" Open="0" />
+          <Item ID="324" Name="Testing Word Separation" Page="303" Open="0" />
+          <Item ID="325" Name="Testing Best Sentence Choice" Page="303" Open="0" />
+          <Item ID="326" Name="Testing Pronoun Switches" Page="304" Open="0" />
+        </Item>
+        <Item ID="327" Name="WordPlay’s Source Code" Page="305" Open="0">
+          <Item ID="328" Name="wordplay.rb" Page="305" Open="0" />
+          <Item ID="329" Name="test_wordplay.rb" Page="306" Open="0" />
+        </Item>
+      </Item>
+      <Item ID="330" Name="Building the Bot’s Core" Page="307" Open="0">
+        <Item ID="331" Name="The Program’s Lifecycle and Parts" Page="307" Open="0" />
+        <Item ID="332" Name="Bot Data" Page="308" Open="0">
+          <Item ID="333" Name="The Data Structure" Page="309" Open="0" />
+          <Item ID="334" Name="Storing the Data Externally" Page="310" Open="0" />
+        </Item>
+        <Item ID="335" Name="Constructing the Bot Class and Data Loader" Page="311" Open="0" />
+        <Item ID="336" Name="The response_to Method" Page="313" Open="0">
+          <Item ID="337" Name="Accepting Input and Performing Substitutions" Page="313" Open="0" />
+          <Item ID="338" Name="Choosing the Best Sentence" Page="314" Open="0" />
+          <Item ID="339" Name="Looking for Matching Phrases" Page="315" Open="0" />
+          <Item ID="340" Name="Putting Together the Final Phrase" Page="316" Open="0" />
+        </Item>
+        <Item ID="341" Name="Playing with the Bot" Page="317" Open="0">
+          <Item ID="342" Name="Fred: Your Bot’s Personality" Page="318" Open="0" />
+          <Item ID="343" Name="The First Real Conversation" Page="319" Open="0" />
+        </Item>
+      </Item>
+      <Item ID="344" Name="Main Bot Code Listing" Page="321" Open="0">
+        <Item ID="345" Name="bot.rb" Page="321" Open="0" />
+        <Item ID="346" Name="basic_client.rb" Page="323" Open="0" />
+      </Item>
+      <Item ID="347" Name="Extending the Bot" Page="324" Open="0">
+        <Item ID="348" Name="Using Text Files as a Source of Conversation" Page="324" Open="0" />
+        <Item ID="349" Name="Connecting the Bot to the Web" Page="325" Open="0" />
+        <Item ID="350" Name="Bot-to-Bot Conversations" Page="327" Open="0" />
+      </Item>
+      <Item ID="351" Name="Summary" Page="328" Open="0" />
+    </Item>
+  </Item>
+  <Item ID="352" Name="Part 3: Ruby Online" Page="329" Open="0">
+    <Item ID="353" Name="Chapter 13: Two Web Application Approaches: Rails and Sinatra" Page="330" Open="0">
+      <Item ID="354" Name="Background" Page="330" Open="0">
+        <Item ID="355" Name="The Limitations and Benefits of Our Approach" Page="330" Open="0" />
+        <Item ID="356" Name="Pros and Cons of the Frameworks Covered" Page="331" Open="0" />
+      </Item>
+      <Item ID="357" Name="Rails: Ruby’s Killer App" Page="331" Open="0">
+        <Item ID="358" Name="What Is Rails and Why Use It?" Page="331" Open="0" />
+        <Item ID="359" Name="Installing Rails" Page="334" Open="0">
+          <Item ID="360" Name="Database Considerations" Page="335" Open="0" />
+        </Item>
+        <Item ID="361" Name="Building a Basic Rails Application" Page="335" Open="0">
+          <Item ID="362" Name="Creating a Blank Rails Application" Page="335" Open="0">
+            <Item ID="363" Name="The Rails Command-Line Tool" Page="336" Open="0" />
+          </Item>
+          <Item ID="364" Name="Files and Directories Within a Rails Application" Page="338" Open="0" />
+          <Item ID="365" Name="Database Configuration" Page="340" Open="0" />
+          <Item ID="366" Name="Using Scaffolding" Page="342" Open="0" />
+          <Item ID="367" Name="Database Migrations" Page="343" Open="0" />
+          <Item ID="368" Name="Running the Basic, Scaffolded App" Page="345" Open="0" />
+        </Item>
+        <Item ID="369" Name="Controllers and Views" Page="347" Open="0">
+          <Item ID="370" Name="Controller Actions" Page="347" Open="0" />
+          <Item ID="371" Name="Views and Embedded Ruby (ERB)" Page="349" Open="0" />
+        </Item>
+        <Item ID="372" Name="Models and Relationships" Page="352" Open="0" />
+        <Item ID="373" Name="Sessions and Filters" Page="354" Open="0" />
+        <Item ID="374" Name="Other Features" Page="355" Open="0">
+          <Item ID="375" Name="Layouts" Page="355" Open="0" />
+        </Item>
+        <Item ID="376" Name="Where to Go Next: References, Books, and Example Apps" Page="357" Open="0">
+          <Item ID="377" Name="Reference Sites and Tutorials" Page="357" Open="0" />
+          <Item ID="378" Name="Rails Books" Page="357" Open="0" />
+        </Item>
+      </Item>
+      <Item ID="379" Name="Sinatra: Lightweight, Simple Web Applications" Page="358" Open="0">
+        <Item ID="380" Name="The Extreme Simplicity of Sinatra" Page="358" Open="0" />
+        <Item ID="381" Name="General URL Routing and Parameter Matching" Page="359" Open="0" />
+        <Item ID="382" Name="Views, Templates, and Static Files" Page="360" Open="0">
+          <Item ID="383" Name="Inline and In-File Templates" Page="360" Open="0" />
+          <Item ID="384" Name="Layouts" Page="362" Open="0" />
+          <Item ID="385" Name="External Templates and Layouts" Page="363" Open="0" />
+          <Item ID="386" Name="Static Files" Page="363" Open="0" />
+        </Item>
+        <Item ID="387" Name="Request Flow Control" Page="364" Open="0">
+          <Item ID="388" Name="Redirection" Page="364" Open="0" />
+          <Item ID="389" Name="Halting" Page="365" Open="0" />
+          <Item ID="390" Name="Error Handling" Page="365" Open="0" />
+        </Item>
+      </Item>
+      <Item ID="391" Name="Summary" Page="366" Open="0" />
+    </Item>
+    <Item ID="392" Name="Chapter 14: Ruby and the Internet" Page="368" Open="0">
+      <Item ID="393" Name="HTTP and the Web" Page="368" Open="0">
+        <Item ID="394" Name="Downloading Web Pages" Page="368" Open="0">
+          <Item ID="395" Name="The net/http Library" Page="368" Open="0">
+            <Item ID="396" Name="Checking for Errors and Redirects" Page="370" Open="0" />
+            <Item ID="397" Name="Basic Authentication" Page="371" Open="0" />
+            <Item ID="398" Name="Posting Form Data" Page="371" Open="0" />
+            <Item ID="399" Name="Using HTTP Proxies" Page="372" Open="0" />
+            <Item ID="400" Name="Secure HTTP with HTTPS" Page="373" Open="0" />
+          </Item>
+          <Item ID="401" Name="The Open-Uri Library" Page="374" Open="0" />
+        </Item>
+        <Item ID="402" Name="Processing Web Content" Page="376" Open="0">
+          <Item ID="403" Name="Parsing HTML with Nokogiri" Page="376" Open="0" />
+          <Item ID="404" Name="Parsing XML with REXML" Page="377" Open="0" />
+        </Item>
+      </Item>
+      <Item ID="405" Name="E-Mail" Page="379" Open="0">
+        <Item ID="406" Name="Receiving Mail with POP3" Page="379" Open="0" />
+        <Item ID="407" Name="Sending Mail with SMTP" Page="381" Open="0" />
+        <Item ID="408" Name="Sending Mail with ActionMailer" Page="382" Open="0" />
+      </Item>
+      <Item ID="409" Name="File Transfers with FTP" Page="383" Open="0">
+        <Item ID="410" Name="Connection and Basic FTP Actions" Page="383" Open="0" />
+        <Item ID="411" Name="Downloading Files" Page="385" Open="0" />
+        <Item ID="412" Name="Uploading Files" Page="385" Open="0" />
+      </Item>
+      <Item ID="413" Name="Summary" Page="387" Open="0" />
+    </Item>
+    <Item ID="414" Name="Chapter 15: Networking and Sockets" Page="388" Open="0">
+      <Item ID="415" Name="Networking Concepts" Page="388" Open="0">
+        <Item ID="416" Name="TCP and UDP" Page="388" Open="0" />
+        <Item ID="417" Name="IP Addresses and DNS" Page="389" Open="0" />
+      </Item>
+      <Item ID="418" Name="Basic Network Operations" Page="389" Open="0">
+        <Item ID="419" Name="Checking Machine and Service Availability" Page="389" Open="0" />
+        <Item ID="420" Name="Performing DNS Queries" Page="390" Open="0" />
+        <Item ID="421" Name="Connecting to a TCP Server Directly" Page="392" Open="0" />
+      </Item>
+      <Item ID="422" Name="Servers and Clients" Page="393" Open="0">
+        <Item ID="423" Name="UDP Client and Server" Page="393" Open="0" />
+        <Item ID="424" Name="Building a Simple TCP Server" Page="395" Open="0" />
+        <Item ID="425" Name="Multi-Client TCP Servers" Page="397" Open="0" />
+        <Item ID="426" Name="GServer" Page="397" Open="0" />
+        <Item ID="427" Name="A GServer-Based Chat Server" Page="399" Open="0" />
+        <Item ID="428" Name="Web/HTTP Servers" Page="402" Open="0" />
+      </Item>
+      <Item ID="429" Name="Summary" Page="403" Open="0" />
+    </Item>
+    <Item ID="430" Name="Chapter 16: Useful Ruby Libraries" Page="404" Open="0">
+      <Item ID="431" Name="abbrev" Page="404" Open="0">
+        <Item ID="432" Name="Installation" Page="405" Open="0" />
+        <Item ID="433" Name="Examples" Page="405" Open="0" />
+        <Item ID="434" Name="Further Information" Page="406" Open="0" />
+      </Item>
+      <Item ID="435" Name="base64" Page="406" Open="0">
+        <Item ID="436" Name="Installation" Page="406" Open="0" />
+        <Item ID="437" Name="Examples" Page="406" Open="0">
+          <Item ID="438" Name="Converting Binary Data to Base64" Page="406" Open="0" />
+          <Item ID="439" Name="Converting Base64 Data to Binary Data" Page="407" Open="0" />
+          <Item ID="440" Name="Using Compression to Make Base64 Efficient" Page="407" Open="0" />
+        </Item>
+        <Item ID="441" Name="Further Information" Page="408" Open="0" />
+      </Item>
+      <Item ID="442" Name="Benchmark" Page="408" Open="0">
+        <Item ID="443" Name="Installation" Page="408" Open="0" />
+        <Item ID="444" Name="Examples" Page="409" Open="0" />
+        <Item ID="445" Name="Further Information" Page="409" Open="0" />
+      </Item>
+      <Item ID="446" Name="cgi" Page="409" Open="0">
+        <Item ID="447" Name="Installation" Page="410" Open="0" />
+        <Item ID="448" Name="Examples" Page="410" Open="0">
+          <Item ID="449" Name="A Basic CGI Script" Page="410" Open="0" />
+          <Item ID="450" Name="Accepting Passed Data" Page="411" Open="0" />
+          <Item ID="451" Name="Cookies" Page="412" Open="0" />
+          <Item ID="452" Name="Sessions" Page="413" Open="0" />
+        </Item>
+        <Item ID="453" Name="Further Information" Page="414" Open="0" />
+      </Item>
+      <Item ID="454" Name="chronic" Page="414" Open="0">
+        <Item ID="455" Name="Installation" Page="414" Open="0" />
+        <Item ID="456" Name="Examples" Page="414" Open="0" />
+        <Item ID="457" Name="Further Information" Page="415" Open="0" />
+      </Item>
+      <Item ID="458" Name="Digest" Page="415" Open="0">
+        <Item ID="459" Name="Installation" Page="416" Open="0" />
+        <Item ID="460" Name="Examples" Page="416" Open="0" />
+        <Item ID="461" Name="Further Information" Page="418" Open="0" />
+      </Item>
+      <Item ID="462" Name="English" Page="418" Open="0">
+        <Item ID="463" Name="Installation" Page="418" Open="0" />
+        <Item ID="464" Name="Examples" Page="418" Open="0" />
+        <Item ID="465" Name="Further Information" Page="419" Open="0" />
+      </Item>
+      <Item ID="466" Name="ERB" Page="420" Open="0">
+        <Item ID="467" Name="Installation" Page="420" Open="0" />
+        <Item ID="468" Name="Examples" Page="420" Open="0">
+          <Item ID="469" Name="Basic Templates and Rendering" Page="420" Open="0" />
+          <Item ID="470" Name="Accessing Outside Variables" Page="421" Open="0" />
+          <Item ID="471" Name="Safe Levels" Page="422" Open="0" />
+        </Item>
+        <Item ID="472" Name="Further Information" Page="422" Open="0" />
+      </Item>
+      <Item ID="473" Name="json" Page="422" Open="0">
+        <Item ID="474" Name="Installation" Page="422" Open="0" />
+        <Item ID="475" Name="Examples" Page="423" Open="0" />
+        <Item ID="476" Name="Further Information" Page="423" Open="0" />
+      </Item>
+      <Item ID="477" Name="logger" Page="424" Open="0">
+        <Item ID="478" Name="Installation" Page="424" Open="0" />
+        <Item ID="479" Name="Examples" Page="424" Open="0">
+          <Item ID="480" Name="Setting Up a Logger" Page="424" Open="0" />
+          <Item ID="481" Name="Logging Levels" Page="425" Open="0" />
+          <Item ID="482" Name="Logging Messages" Page="425" Open="0" />
+          <Item ID="483" Name="Closing a Logger" Page="426" Open="0" />
+        </Item>
+        <Item ID="484" Name="Further Information" Page="426" Open="0" />
+      </Item>
+      <Item ID="485" Name="Nokogiri" Page="426" Open="0">
+        <Item ID="486" Name="Installation" Page="426" Open="0" />
+        <Item ID="487" Name="Examples" Page="426" Open="0" />
+        <Item ID="488" Name="Further Information" Page="427" Open="0" />
+      </Item>
+      <Item ID="489" Name="pp" Page="427" Open="0">
+        <Item ID="490" Name="Installation" Page="427" Open="0" />
+        <Item ID="491" Name="Examples" Page="427" Open="0" />
+        <Item ID="492" Name="Further Information" Page="429" Open="0" />
+      </Item>
+      <Item ID="493" Name="RedCarpet" Page="429" Open="0">
+        <Item ID="494" Name="Installation" Page="429" Open="0" />
+        <Item ID="495" Name="Examples" Page="429" Open="0" />
+        <Item ID="496" Name="Further Information" Page="430" Open="0" />
+      </Item>
+      <Item ID="497" Name="StringScanner" Page="430" Open="0">
+        <Item ID="498" Name="Installation" Page="430" Open="0" />
+        <Item ID="499" Name="Examples" Page="431" Open="0" />
+        <Item ID="500" Name="Further Information" Page="433" Open="0" />
+      </Item>
+      <Item ID="501" Name="tempfile" Page="433" Open="0">
+        <Item ID="502" Name="Installation" Page="433" Open="0" />
+        <Item ID="503" Name="Examples" Page="433" Open="0" />
+        <Item ID="504" Name="Further Information" Page="435" Open="0" />
+      </Item>
+      <Item ID="505" Name="uri" Page="435" Open="0">
+        <Item ID="506" Name="Installation" Page="435" Open="0" />
+        <Item ID="507" Name="Examples" Page="436" Open="0">
+          <Item ID="508" Name="Extracting URLs from Text" Page="436" Open="0" />
+          <Item ID="509" Name="Parsing URLs" Page="436" Open="0" />
+          <Item ID="510" Name="Creating URLs" Page="438" Open="0" />
+        </Item>
+        <Item ID="511" Name="Further Information" Page="439" Open="0" />
+      </Item>
+      <Item ID="512" Name="zlib" Page="439" Open="0">
+        <Item ID="513" Name="Installation" Page="439" Open="0" />
+        <Item ID="514" Name="Examples" Page="439" Open="0" />
+        <Item ID="515" Name="Further Information" Page="440" Open="0" />
+      </Item>
+    </Item>
+    <Item ID="516" Name="Appendix A: Ruby Primer and Review for Developers" Page="441" Open="0">
+      <Item ID="517" Name="The Basics" Page="441" Open="0">
+        <Item ID="518" Name="Definition and Concepts" Page="441" Open="0" />
+        <Item ID="519" Name="The Ruby Interpreter and Running Ruby Code" Page="443" Open="0" />
+        <Item ID="520" Name="Interactive Ruby" Page="444" Open="0" />
+      </Item>
+      <Item ID="521" Name="Expressions and Flow Control" Page="444" Open="0">
+        <Item ID="522" Name="Basic Expressions" Page="444" Open="0" />
+        <Item ID="523" Name="Class Mismatches" Page="445" Open="0" />
+        <Item ID="524" Name="Comparison Expressions" Page="446" Open="0" />
+        <Item ID="525" Name="Flow" Page="447" Open="0">
+          <Item ID="526" Name="Branching and Conditional Execution" Page="447" Open="0" />
+          <Item ID="527" Name="The Ternary Operator (Conditional Expressions)" Page="449" Open="0" />
+          <Item ID="528" Name="Loops" Page="449" Open="0" />
+        </Item>
+      </Item>
+      <Item ID="529" Name="Object Orientation" Page="450" Open="0">
+        <Item ID="530" Name="Objects" Page="451" Open="0" />
+        <Item ID="531" Name="Classes and Methods" Page="451" Open="0" />
+        <Item ID="532" Name="Reflection" Page="453" Open="0" />
+        <Item ID="533" Name="Reopening Classes" Page="455" Open="0" />
+        <Item ID="534" Name="Method Visibility" Page="455" Open="0" />
+      </Item>
+      <Item ID="535" Name="Data" Page="456" Open="0">
+        <Item ID="536" Name="Strings" Page="457" Open="0" />
+        <Item ID="537" Name="Regular Expressions" Page="457" Open="0" />
+        <Item ID="538" Name="Numbers" Page="458" Open="0" />
+        <Item ID="539" Name="Arrays" Page="460" Open="0" />
+        <Item ID="540" Name="Hashes (Associative Arrays)" Page="461" Open="0" />
+        <Item ID="541" Name="Complex Structures" Page="462" Open="0" />
+      </Item>
+      <Item ID="542" Name="Input/Output" Page="462" Open="0">
+        <Item ID="543" Name="Files" Page="462" Open="0" />
+        <Item ID="544" Name="Databases" Page="463" Open="0" />
+        <Item ID="545" Name="Web Access" Page="463" Open="0" />
+      </Item>
+      <Item ID="546" Name="Libraries" Page="464" Open="0">
+        <Item ID="547" Name="File Organization" Page="464" Open="0" />
+        <Item ID="548" Name="Packaging" Page="465" Open="0" />
+      </Item>
+    </Item>
+    <Item ID="549" Name="Appendix B: Useful Resources" Page="466" Open="0">
+      <Item ID="550" Name="Tutorials and Guides" Page="466" Open="0">
+        <Item ID="551" Name="General Ruby Tutorials" Page="466" Open="0" />
+        <Item ID="552" Name="Ruby on Rails" Page="467" Open="0" />
+        <Item ID="553" Name="Other" Page="467" Open="0" />
+      </Item>
+      <Item ID="554" Name="References" Page="467" Open="0">
+        <Item ID="555" Name="Ruby" Page="467" Open="0" />
+        <Item ID="556" Name="Ruby on Rails" Page="468" Open="0" />
+      </Item>
+      <Item ID="557" Name="Ruby-Related Content" Page="468" Open="0">
+        <Item ID="558" Name="Aggregators and News" Page="468" Open="0" />
+        <Item ID="559" Name="Podcasts" Page="469" Open="0" />
+        <Item ID="560" Name="Forums" Page="469" Open="0" />
+      </Item>
+      <Item ID="561" Name="Mailing Lists" Page="469" Open="0" />
+      <Item ID="562" Name="Real-Time Chat" Page="470" Open="0" />
+    </Item>
+  </Item>
+  <Item ID="563" Name="Index" Page="471" Open="0" />
+</BookmarkExport>
